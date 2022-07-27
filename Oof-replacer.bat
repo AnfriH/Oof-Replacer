@@ -1,3 +1,8 @@
+::
+:: Script created by Anfri: twitter @GorbageAcquired
+:: Distribute this script as far and wide as you wish!
+:: https://github.com/AnfriH/Oof-Replacer
+::
 @ECHO OFF
 
 ::download link to oof audio
