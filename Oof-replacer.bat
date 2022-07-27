@@ -25,7 +25,7 @@ FOR /D %%G in (%__CD__%*) do (
         ::replace oof sound in dir
         echo Replacing "ouch.ogg" in %%G%SOUND_DIR%
         del "%%G%SOUND_DIR%\ouch.ogg"
-        xcopy /f "%__CD__%\ouch.ogg" "%%G%SOUND_DIR%" > del
+        xcopy /f "%__CD__%\ouch.ogg" "%%G%SOUND_DIR%" > nul
     )
 )
 ::delete downloaded file
