@@ -7,10 +7,11 @@ Simply download the .bat file and double-click it to run 😀
 
 # How does the script work?
 Simple!
-- Navigates to your Roblox location
-- Downloads copy of oof sound from online source (currently located [here](https://static.wikia.nocookie.net/roblox/images/6/61/Uuhhh.ogg))
+- Navigates to your Roblox install location
+- Downloads copy of oof sound from online source (currently sourced from [here](https://static.wikia.nocookie.net/roblox/images/6/61/Uuhhh.ogg))
 - For each installed version of Roblox (Studio, Player, etc), replace the oof sound with the downloaded copy
-- Clean up any residual files
+- Cleans up any residual files
+
 Tada! Your Roblox now has the original oof sound again!
 
 ###### This script only works for Windows and has been tested on Windows 10. I do not own a macOS device and so I am unable to create a ported script
