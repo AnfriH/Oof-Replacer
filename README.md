@@ -2,7 +2,7 @@
 A simple script to restore the original Roblox oof/death sound
 
 ## Usage
-Simply download the .bat file and double-click it to run 😀
+If you're on the Github Website, you can click "Code" then "Download Zip" to download the file. You can then open up the zip file and double-click the .bat file to run it 😀
 ###### After a Roblox update, you may need to rerun the script
 
 # How does the script work?
