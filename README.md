@@ -18,4 +18,4 @@ Tada! Your Roblox now has the original oof sound again!
 ## Is this safe?
 If you're concerned, you can read through the file's contents to check for yourself ✨
 
-The script uses xcopy and bitsadmin, which should come preinstalled with Windows
+This script uses xcopy and bitsadmin, which should come preinstalled with Windows
